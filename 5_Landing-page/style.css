@@ -1,0 +1,40 @@
+.top {
+    display: flex;
+    flex-direction: column;
+    font-size: 75px;
+    font-weight: 800;
+    font-family: sans-serif;
+    padding-top: 15vh;
+    padding-left: 10vw;
+}
+
+.item {
+    display: flex;
+    flex-direction: column;
+}
+
+.one {
+    font-size: 40px;
+    font-weight: 600;
+    color: grey;
+    font-family: sans-serif;
+}
+
+.lorm {
+    font-size: 30px;
+    color: rgb(68, 66, 66);
+    padding-top: 2vh;
+}
+
+div img {
+    padding-top: 5vh;
+}
+
+.items {
+    display: flex;
+    flex-direction: row;
+    gap: 2vw;
+    /* align-items:center; */
+    justify-content: center;
+    padding-top:10vh;
+}
