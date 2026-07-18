@@ -1,0 +1,61 @@
+.head {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-top: 13vh;
+    gap: 10vw;
+}
+
+.item-1 {
+    font-size: 78px;
+    font-weight: 800;
+    font-family: sans-serif;
+}
+
+.item-2>div:first-child {
+    font-size: 26px;
+    font-weight: 400;
+    color: grey;
+}
+
+.item-2>div:nth-child(2) {
+    font-size: 26px;
+    font-weight: 400;
+    color: grey;
+}
+
+.item-2>div:nth-child(3) {
+    font-size: 26px;
+    font-weight: 400;
+    color: grey;
+}
+
+.btn {
+    padding-top: 40px;
+}
+
+button {
+    border-radius: 14px;
+    width: 150px;
+    height: 50px;
+    background-color: black;
+}
+
+button a {
+    font-size: 20px;
+    font-family: sans-serif;
+    text-decoration: none;
+    color: white;
+}
+
+.hero-img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 15vh;
+    padding-bottom:8vh;
+}
+
+.hero-img img {
+    width: 95vw;
+}
