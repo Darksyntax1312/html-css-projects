@@ -1,0 +1,77 @@
+     body {
+            background-color: beige;
+        }
+
+        .M1 {
+            text-align: center;
+            text-decoration: underline;
+            text-decoration-style: dotted;
+            color: rgb(243, 94, 198);
+
+        }
+
+        .M2 {
+            font-family: "Bilbo Swash Caps", cursive;
+            width: 500;
+            color: blue;
+            font-size: 25px;
+        }
+
+        .M3 {
+            border: 1px solid black;
+            width: auto;
+            height: auto;
+            color: rgb(6, 66, 234);
+            background-color: rgb(240, 240, 184);
+        }
+
+        .M4 {
+            border: 1px solid black;
+            width: auto;
+            height: auto;
+            color: rgb(6, 66, 234);
+            background-color: rgb(240, 240, 184);
+        }
+
+        .M5 {
+            border: 1px solid black;
+            width: auto;
+            height: auto;
+            color: rgb(6, 66, 234);
+            background-color: rgb(240, 240, 184);
+        }
+
+        .C1 {
+            color: crimson
+        }
+
+        .M6 {
+            background-color: rgb(240, 240, 184);
+            color: blue;
+            border: 2px solid black;
+            width: 100px;
+            height: 200px;
+            overflow: scroll;
+            overflow-x: hidden;
+        }
+
+        .M7 {
+            background-color: rgb(240, 240, 184);
+            color: blue;
+            border: 2px solid black;
+            width: 100px;
+            height: 200px;
+            overflow: scroll;
+            overflow-x: hidden;
+        }
+
+        .M8 {
+            background-color: rgb(240, 240, 184);
+            color: blue;
+            border: 2px solid black;
+            width: 200px;
+            height: 75px;
+            overflow: scroll;
+            overflow-x: hidden;
+
+        }
